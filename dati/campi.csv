@@ -1,0 +1,21 @@
+id_campo,comune,coltura,superficie_ha
+1,Alghero,vite,9.5
+2,Alghero,vite,16.5
+3,Alghero,pomodoro,8.5
+4,Alghero,pomodoro,15.5
+5,Alghero,carciofo,7.5
+6,Alghero,carciofo,14.5
+7,Sassari,mais,6.5
+8,Sassari,mais,13.5
+9,Sassari,mais,5.5
+10,Sassari,mais,12.5
+11,Sassari,grano duro,4.5
+12,Sassari,pomodoro,11.5
+13,Sassari,pomodoro,3.5
+14,Porto Torres,carciofo,10.5
+15,Porto Torres,carciofo,2.5
+16,Porto Torres,vite,9.5
+17,Porto Torres,vite,16.5
+18,Porto Torres,grano duro,8.5
+19,Porto Torres,grano duro,15.5
+20,Porto Torres,mais,7.5
